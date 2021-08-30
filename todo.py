@@ -1,4 +1,6 @@
 #- damage calculator
+'''chug'''
+
 - path calculator (unique cases player manual override)
 - action enumerator
 - make some tiles
