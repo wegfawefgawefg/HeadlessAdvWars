@@ -1,0 +1,2 @@
+UNIT_NAMES = ["infantry", "mech", "recon", "tank", "mdtank", "neotank", "megatank", "apc","artillery", "rocket", "antiair", "missile", "piperunner",
+    "blob", "bcopter", "tcopter", "fighter", "bomber", "stealth", "black_bomb", "lander", "cruiser", "sub", "battleship", "carrier", "black_boat", "pipe"]
